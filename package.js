@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'ethereum:networkinfo',
-  summary: 'Ethereum network information package',
+  name: 'moac:networkinfo',
+  summary: 'Moac network information package',
   version: '0.4.1',
-  git: 'https://github.com/ethereum/meteor-ethereum-networkinfo.git'
+  git: 'https://github.com/MOACChain/meteor-moac-networkinfo.git'
 });
 
 Package.onUse(function(api) {
